@@ -1,0 +1,78 @@
+"tab.home" = "Home";
+"tab.mixer" = "Mixer";
+"tab.timer" = "Timer";
+"tab.presets" = "Miscele";
+"tab.profile" = "Profilo";
+
+"home.tagline" = "Immergiti nei suoni vivi dell'Amazzonia";
+"home.scenes" = "Paesaggi sonori";
+"home.my_mixes" = "Le mie miscele";
+"home.new_mix" = "Nuova miscela";
+"home.start_timer" = "Avvia timer";
+
+"mode.sonno" = "Sonno";
+"mode.relax" = "Relax";
+"mode.focus" = "Focus";
+"mode.meditazione" = "Medita";
+
+"mixer.title" = "Mixer suoni";
+"mixer.master_volume" = "Volume master";
+"mixer.play" = "Riproduci";
+"mixer.pause" = "Pausa";
+"mixer.save_preset" = "Salva miscela";
+"mixer.preset_name_prompt" = "Nome della miscela";
+"mixer.shuffle" = "Casuale";
+"mixer.favorite" = "Preferiti";
+
+"timer.title" = "Timer sonno";
+"timer.start" = "Avvia";
+"timer.stop" = "Ferma";
+"timer.minutes" = "min";
+"timer.fade_label" = "Dissolvenza graduale";
+"timer.fade_hint" = "Sfuma il volume negli ultimi 30 secondi";
+
+"presets.title" = "Le mie miscele";
+"presets.empty" = "Nessuna miscela salvata";
+"presets.delete" = "Elimina";
+"presets.rename" = "Rinomina";
+"presets.builtin" = "Paesaggi proposti";
+
+"scene.pioggia_amazzonica" = "Pioggia Amazzonica";
+"scene.fiume_turchese" = "Fiume Turchese";
+"scene.notte_foresta" = "Notte nella Foresta";
+"scene.alba_foresta" = "Alba nella Foresta";
+"scene.cascata_serena" = "Cascata Serena";
+"scene.focus_tropicale" = "Focus Tropicale";
+
+"profile.title" = "Profilo";
+"profile.settings" = "Impostazioni";
+"profile.default_duration" = "Durata predefinita";
+"profile.default_volume" = "Volume predefinito";
+"profile.background" = "Riproduzione in background";
+"profile.credits" = "Crediti audio";
+"profile.support" = "Contatta il supporto";
+"profile.privacy" = "Informativa sulla privacy";
+"profile.version" = "Versione";
+
+"onboarding.next" = "Avanti";
+"onboarding.start" = "Inizia";
+"onboarding.skip" = "Salta";
+"onboarding.1.title" = "Tocca un suono per attivarlo";
+"onboarding.1.text" = "Otto suoni vivi della giungla, pronti a essere mescolati";
+"onboarding.2.title" = "Mescola fino a 8 suoni";
+"onboarding.2.text" = "Sposta i cursori e crea l'atmosfera che ti accompagna";
+"onboarding.3.title" = "Salva e usa il timer del sonno";
+"onboarding.3.text" = "Le tue miscele restano sempre con te, anche al buio";
+
+"sound.pioggia" = "Pioggia";
+"sound.fiume" = "Fiume";
+"sound.cascata" = "Cascata";
+"sound.uccelli" = "Uccelli";
+"sound.vento" = "Vento";
+"sound.foglie" = "Foglie";
+"sound.tuono" = "Tuono";
+"sound.cicale" = "Cicale";
+
+"common.cancel" = "Annulla";
+"common.save" = "Salva";
+"common.ok" = "OK";

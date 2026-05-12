@@ -1,0 +1,78 @@
+"tab.home" = "Home";
+"tab.mixer" = "Mixer";
+"tab.timer" = "Timer";
+"tab.presets" = "Mixes";
+"tab.profile" = "Profile";
+
+"home.tagline" = "Step into the living sound of the Amazon";
+"home.scenes" = "Soundscapes";
+"home.my_mixes" = "My mixes";
+"home.new_mix" = "New mix";
+"home.start_timer" = "Start timer";
+
+"mode.sonno" = "Sleep";
+"mode.relax" = "Relax";
+"mode.focus" = "Focus";
+"mode.meditazione" = "Calm";
+
+"mixer.title" = "Sound mixer";
+"mixer.master_volume" = "Master volume";
+"mixer.play" = "Play";
+"mixer.pause" = "Pause";
+"mixer.save_preset" = "Save mix";
+"mixer.preset_name_prompt" = "Mix name";
+"mixer.shuffle" = "Shuffle";
+"mixer.favorite" = "Favorites";
+
+"timer.title" = "Sleep timer";
+"timer.start" = "Start";
+"timer.stop" = "Stop";
+"timer.minutes" = "min";
+"timer.fade_label" = "Gentle fade-out";
+"timer.fade_hint" = "Smoothly lower the volume in the last 30 seconds";
+
+"presets.title" = "My mixes";
+"presets.empty" = "No saved mixes yet";
+"presets.delete" = "Delete";
+"presets.rename" = "Rename";
+"presets.builtin" = "Curated scenes";
+
+"scene.pioggia_amazzonica" = "Amazon Rain";
+"scene.fiume_turchese" = "Turquoise River";
+"scene.notte_foresta" = "Forest Night";
+"scene.alba_foresta" = "Forest Dawn";
+"scene.cascata_serena" = "Serene Waterfall";
+"scene.focus_tropicale" = "Tropical Focus";
+
+"profile.title" = "Profile";
+"profile.settings" = "Settings";
+"profile.default_duration" = "Default duration";
+"profile.default_volume" = "Default volume";
+"profile.background" = "Background playback";
+"profile.credits" = "Audio credits";
+"profile.support" = "Contact support";
+"profile.privacy" = "Privacy policy";
+"profile.version" = "Version";
+
+"onboarding.next" = "Next";
+"onboarding.start" = "Start";
+"onboarding.skip" = "Skip";
+"onboarding.1.title" = "Tap a sound to wake it up";
+"onboarding.1.text" = "Eight living jungle sounds, ready to be blended";
+"onboarding.2.title" = "Blend up to 8 sounds";
+"onboarding.2.text" = "Slide the faders and shape your own atmosphere";
+"onboarding.3.title" = "Save mixes and use the sleep timer";
+"onboarding.3.text" = "Your blends stay with you — even in the dark";
+
+"sound.pioggia" = "Rain";
+"sound.fiume" = "River";
+"sound.cascata" = "Waterfall";
+"sound.uccelli" = "Birds";
+"sound.vento" = "Wind";
+"sound.foglie" = "Leaves";
+"sound.tuono" = "Thunder";
+"sound.cicale" = "Cicadas";
+
+"common.cancel" = "Cancel";
+"common.save" = "Save";
+"common.ok" = "OK";
